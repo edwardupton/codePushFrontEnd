@@ -1,0 +1,18 @@
+d#background {position:relative;}
+
+#foreground {position:absolute; top:120px; left:20px;}
+  #foreground .row { position:static; height:50px;}
+	#foreground p {text-align: right; margin-right: 10px; font-size:1.2em;}
+	
+.grey-column {background-color: #F8F8F8; height:400px; text-align: center; width:104px; float:left; margin-right:20px;}
+
+.green {color:green;}
+
+.slider-span {margin:2px 0 0 0;}
+.slider-container {margin:0 72px 0 52px;}
+
+#graph-modal {width:800px; margin-left:-400px;}
+
+.ui-slider {}
+
+.ui-slider-handle {}
